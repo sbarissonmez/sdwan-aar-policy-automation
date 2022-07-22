@@ -1,4 +1,4 @@
-# Cisco SD-WAN vManage APIs for Application Aware Routing Policies
+# Cisco SD-WAN Application Aware Routing Policies (AAR) Automation
 
 Application-Aware Routing policy is configured in vManage as a centralized data policy that maps the service-side application(s) to specific SLA requirements. The centralized policies provisioned in vSmart controller are pushed to relevant WAN Edge devices for enforcement. The defined policy consists of match-action pairs. The match statement defines the applications on a list or the type of traffic to match, and the action statement defines the SLA action the WAN Edge devices must enforce for the specified traffic.
 
