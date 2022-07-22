@@ -11,7 +11,7 @@ This python code that can be used to interact with the `Cisco SD-WAN vManage RES
 
 ![sdwan-aar](./images/sdwan-aar.png)
 
-## <Objective>
+## Objective
 
 *   How to use vManage APIs
     - Create new SLA class list, Application Aware Routing policy and update active vSmart policy
