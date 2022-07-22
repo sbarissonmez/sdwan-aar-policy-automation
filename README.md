@@ -42,15 +42,15 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-## Examples:
+## Example:
 
 ![Topology](./images/sdwan-topology.png)
 
-## Sample: Create new SLA class list, Application Aware Routing policy and update active vSmart policy
+### `Sample:` Create new SLA class list, Application Aware Routing policy and update active vSmart policy
 
 ![sample-create](./images/create_app.png)
 
-## Sample: Modify preffered color in Application Aware Routing policy
+### `Sample:` Modify preffered color in Application Aware Routing policy
 
 ![sample-modify](./images/modify_app.png)
 
@@ -84,10 +84,10 @@ red
 silver
 ```
 
-## Sample: Delete SLA class list and replaced Application Aware Routing policy
+### `Sample:` Delete SLA class list and replaced Application Aware Routing policy
 
 ![sample-delete](./images/delete_app.png)
 
-## Sample: Monitor average app route statistics 
+### `Sample:` Monitor average app route statistics 
 
 ![sample-monitor](./images/monitor_app.png)
