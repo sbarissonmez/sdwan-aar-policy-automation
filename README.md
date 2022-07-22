@@ -11,7 +11,7 @@ This python code that can be used to interact with the `Cisco SD-WAN vManage RES
 
 ![sdwan-aar](./images/sdwan-aar.png)
 
-# **Objective**
+# ***Objective***
 
 *   How to use vManage APIs
     - Create new SLA class list, Application Aware Routing policy and update active vSmart policy
@@ -19,14 +19,14 @@ This python code that can be used to interact with the `Cisco SD-WAN vManage RES
     - Delete SLA class list and Application Aware Routing policy
     - Monitor Application Aware Routing statistics (BFD statistics) for Overlay Tunnels
 
-# **Requirements**
+# ***Requirements***
 
 To use this code you will need:
 
 * Python 3.7+
 * vManage user login details. (User should have privilege level to configure policies)
 
-# **Install and Setup**
+# ***Install and Setup***
 
 - Clone the code to local machine.
 
@@ -46,11 +46,11 @@ pip3 install -r requirements.txt
 
 ![Topology](./images/sdwan-topology.png)
 
-## **Sample:** Create new SLA class list, Application Aware Routing policy and update active vSmart policy
+## ***Sample:*** Create new SLA class list, Application Aware Routing policy and update active vSmart policy
 
 ![sample-create](./images/create_app.png)
 
-## **Sample:** Modify preffered color in Application Aware Routing policy
+## ***Sample:*** Modify preffered color in Application Aware Routing policy
 
 ![sample-modify](./images/modify_app.png)
 
