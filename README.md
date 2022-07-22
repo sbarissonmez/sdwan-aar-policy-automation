@@ -7,7 +7,7 @@ Cisco SD-WAN Application-Aware Routing consists of three components:
 * Application SLA Requirement – Defining the application SLA requirements.
 * Application-Aware Routing Policy – Policy maps the classified traffic to the transport tunnel based on the defined SLA requirement.
 
-This python code that can be used to interact with the `Cisco SD-WAN vManage REST API`. You can edit the variables in the environment to point to your own vManage instance. The code contains REST API calls to authenticate, modify preferred color in Application Aware Routing policy.
+This python code that can be used to interact with the `Cisco SD-WAN vManage REST API`. You can edit the variables in the environment to point to your own vManage instance.
 
 ![sdwan-aar](./images/sdwan-aar.png)
 
